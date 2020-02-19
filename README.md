@@ -1,3 +1,3 @@
 # Python Debugging Practice
 
-# Some simple python debugging exercises
+Some simple python debugging exercises
