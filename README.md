@@ -1,2 +1,3 @@
-# python-debugging
-practice debugging exercises for python class
+# Python Debugging Practice
+
+# Some simple python debugging exercises
